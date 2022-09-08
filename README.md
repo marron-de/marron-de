@@ -1,4 +1,4 @@
- 
+<!-- 상단 이미지 -->
 <img src="http://marronde.com/image/github-img2.png" alt="" style="width:100%" />
 
 <div align=center>
@@ -24,3 +24,7 @@
 <img alt="Vue" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 -->
 </div>
+
+
+<!-- 하단 이미지-->
+<img src="http://marronde.com/image/github-img3.png" alt="" style="width:100%" />
