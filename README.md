@@ -24,6 +24,7 @@
 <h1></h1><br>
 
 
+<!-- 기술 -->
 <div align=center>
 <h3>STACK</h3>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -36,9 +37,9 @@
 <img alt="Vue" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 -->
 </div>
+<br>
 
-
-
+<!-- 연락 -->
 <div align=center>
 <h3>CONTACT</h3>
 <a href="http://marronde.com/" target="_blank">
@@ -51,8 +52,18 @@
  <img alt="Mail" src ="https://img.shields.io/badge/Mail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 </div>
+<br><br>
 
 
+<div align=center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</div>
+ 
+ 
+ 
 <!-- 하단 이미지-->
 <img src="http://marronde.com/image/github-img3.png" alt="" style="width:100%" />
