@@ -3,7 +3,7 @@
 
 <!-- 이름 -->
 <div align=center>
-<img src="http://marronde.com/image/github-img4.png" alt="" style="width:100%; max-width:300px; margin-bottom: 20px; display: block;" />
+<img src="http://marronde.com/image/github-img4.png" alt="" style="width:300px;" />
 </div>
 
 
