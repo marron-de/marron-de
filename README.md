@@ -14,13 +14,14 @@
 </div>
 -->
 
-<br><h1></h1><br>
-
+<!-- 방문자수 -->
+<br>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarron-de&count_bg=%2347596C&title_bg=%230F2A46&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
+<h1></h1><br>
 
 
 <div align=center>
@@ -41,7 +42,7 @@
 <div align=center>
 <h3>CONTACT</h3>
 <a href="http://marronde.com/" target="_blank">
- <img alt="Hompage" src ="https://img.shields.io/badge/Sujeong-Hompage-0f2a46.svg?&style=flat-square&logo=Home&logoColor=white"/>
+ <img alt="Hompage" src ="https://img.shields.io/badge/Sujeong-Hompage-546635.svg?&style=flat-square&logo=Home&logoColor=white"/>
 </a>
 <a href="https://marronde.notion.site/3ef9360a9e79436697467f8593e34dfc" target="_blank">
  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/> 
