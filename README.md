@@ -18,7 +18,7 @@
 <br>
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarron-de&count_bg=%237E7B40&title_bg=%23546635&icon=devrant.svg&icon_color=%23FFFDF3&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarron-de&count_bg=%23546635&title_bg=%230F2A46&icon=devrant.svg&icon_color=%23FFFDF3&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 <h1></h1><br>
