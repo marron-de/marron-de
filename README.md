@@ -39,6 +39,13 @@
 </div>
 <br>
 
+<div align=center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+ 
+
 <!-- 연락 -->
 <div align=center>
 <h3>CONTACT</h3>
@@ -57,7 +64,6 @@
 
 <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
