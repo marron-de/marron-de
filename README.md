@@ -18,7 +18,7 @@
 <br>
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarron-de&count_bg=%2347596C&title_bg=%230F2A46&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarron-de&count_bg=%237E7B40&title_bg=%23546635&icon=devrant.svg&icon_color=%23FFFDF3&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 <h1></h1><br>
@@ -41,7 +41,7 @@
 
 <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&title_color=546635&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&title_color=0f2a46&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br>
@@ -64,7 +64,7 @@
 
 <div align=center>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de&title_color=546635&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de&title_color=0f2a46&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
