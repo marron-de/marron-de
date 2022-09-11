@@ -26,7 +26,7 @@
 
 <!-- 기술 -->
 <div align=center>
-<h3>:notebook_with_decorative_cover: STACK </h3>
+<h3>📓 Tech Stack </h3>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <br>
 <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img alt="Premiere" src ="https://img.shields.io/badge/Premiere-9999FF.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img alt="After Effects" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 <!-- 연락 -->
 <div align=center>
-<h3>:telephone_receiver: CONTACT</h3>
+<h3>☎️ Contact</h3>
 <a href="http://marronde.com/" target="_blank">
  <img alt="Hompage" src ="https://img.shields.io/badge/Sujeong-Hompage-546635.svg?&style=flat-square&logo=Home&logoColor=white"/>
 </a>
@@ -59,15 +59,14 @@
  <img alt="Mail" src ="https://img.shields.io/badge/Mail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 </div>
-<br><br>
-
+<br>
 
 <div align=center>
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de&title_color=0f2a46&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
- 
+<br><br>
  
  
 <!-- 하단 이미지-->
