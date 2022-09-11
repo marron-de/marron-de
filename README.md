@@ -41,7 +41,7 @@
 
 <div align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&title_color=546635&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br>
@@ -64,7 +64,7 @@
 
 <div align=center>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marron-de&title_color=546635&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
