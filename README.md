@@ -31,7 +31,10 @@
 <br>
 <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
 <br>
-<img alt="Premiere" src ="https://img.shields.io/badge/Premiere-000058.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img alt="After Effects" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img alt="Premiere" src ="https://img.shields.io/badge/Premiere-000058.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
+<!--
+<img alt="After Effects" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+-->
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/> 
  <br>
 <!--
