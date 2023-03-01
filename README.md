@@ -37,8 +37,8 @@
 -->
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/> 
  <br>
-<!--
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
+<!--
 <img alt="Vue" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
 -->
 </div>
