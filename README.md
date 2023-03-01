@@ -30,6 +30,7 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <br>
 <img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
 <img alt="Premiere" src ="https://img.shields.io/badge/Premiere-000058.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
 <!--
