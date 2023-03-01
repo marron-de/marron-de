@@ -28,8 +28,14 @@
 <div align=center>
 <h3>📓 Tech Stack </h3>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+ 
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br>
-<img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
+<img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> 
+<img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <br>
 <img alt="Premiere" src ="https://img.shields.io/badge/Premiere-000058.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
