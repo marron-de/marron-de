@@ -27,27 +27,27 @@
 <!-- 기술 -->
 <div align=center>
 <h3>📓 Tech Stack </h3>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-fc490b.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
  
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/html5-fc490b?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-3595cf?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br>
-<img alt="Illustrator" src ="https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=flat-square&logo=Adobe Illustrator&logoColor=white"/> 
-<img alt="Photoshop" src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/illustrator-f79500?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-2fa3f7?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere-000058?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> -->
+<br>
+
+<!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> -->
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br>
-<img alt="Premiere" src ="https://img.shields.io/badge/Premiere-000058.svg?&style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> 
-<!--
-<img alt="After Effects" src ="https://img.shields.io/badge/After Effects-9999FF.svg?&style=flat-square&logo=Adobe After Effects&logoColor=white"/>
--->
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=PHP&logoColor=white"/> 
- <br>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/>
-<!--
-<img alt="Vue" src ="https://img.shields.io/badge/Vue-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white"/>
--->
+
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<!-- <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> -->
 </div>
 <br>
 
