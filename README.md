@@ -28,6 +28,8 @@
 <div align=center>
 <h3>📓 Tech Stack </h3>
  
+<!-- https://simpleicons.org/ -->
+ 
 <img src="https://img.shields.io/badge/html5-fc490b?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-3595cf?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -39,15 +41,17 @@
 <img src="https://img.shields.io/badge/Premiere-000058?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> -->
 <br>
-
+ 
+<img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> 
+<br>
+ 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <!-- <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> -->
- 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> -->
- 
+  
 </div>
 <br>
 
