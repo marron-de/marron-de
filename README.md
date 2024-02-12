@@ -65,7 +65,7 @@
 <!-- 연락 -->
 <div align=center>
 <h3>☎️ Contact</h3>
-<a href="http://marronde.com/" target="_blank">
+<a href="http://marronde.com/portfolio/" target="_blank">
  <img alt="Hompage" src ="https://img.shields.io/badge/Sujeong-Hompage-546635.svg?&style=flat-square&logo=Home&logoColor=white"/>
 </a>
 <a href="https://marronde.notion.site/3ef9360a9e79436697467f8593e34dfc" target="_blank">
