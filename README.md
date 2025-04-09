@@ -1,9 +1,9 @@
 <!-- 상단 이미지 -->
-<img src="http://marronde.com/image/github-img2.png" alt="" style="width:100%" />
+<img src="http://marronde.com/image/github-img2.png" alt="" style="width:100" />
 
 <!-- 이름 -->
 <div align=center>
-<img src="http://marronde.com/image/github-img4.png" alt="" style="width:300px;" />
+<img src="http://marronde.com/image/github-img4.png" alt="" style="width:300;" />
 </div>
 
 <!-- 헤더
