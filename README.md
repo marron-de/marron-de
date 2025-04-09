@@ -6,7 +6,7 @@
 
 <!-- 이름 -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aee78cca-2572-4fba-8307-e46a7bd40b38" style="width:300px" />
+  <img src="https://github.com/user-attachments/assets/aee78cca-2572-4fba-8307-e46a7bd40b38" style="width:180px" />
 </div>
 
 
