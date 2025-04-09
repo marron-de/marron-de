@@ -1,10 +1,14 @@
 <!-- 상단 이미지 -->
-<img src="http://marronde.com/image/github-img2.png" alt="" style="width:100" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f27ce875-5b83-4bbd-bc8f-3a7d63d85e9e"style="width:100%;" />
+</div>
+
 
 <!-- 이름 -->
-<div align=center>
-<img src="http://marronde.com/image/github-img4.png" alt="" style="width:300;" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aee78cca-2572-4fba-8307-e46a7bd40b38" style="width:300px" />
 </div>
+
 
 <!-- 헤더
 <div align=center>
@@ -55,6 +59,7 @@
 </div>
 <br>
 
+
 <!-- 연락 -->
 <div align=center>
 <h3>☎️ Contact</h3>
@@ -79,4 +84,6 @@
  
  
 <!-- 하단 이미지-->
-<img src="http://marronde.com/image/github-img3.png" alt="" style="width:100%" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a98c9a0f-c2b7-49a8-b9bc-2af907ce599a" style="width:100%;" />
+</div>
