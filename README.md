@@ -1,8 +1,7 @@
 <!-- 상단 이미지 -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f27ce875-5b83-4bbd-bc8f-3a7d63d85e9e"style="width:100%;" />
+  <img src="https://github.com/user-attachments/assets/3b158209-e499-4cb5-801b-7117d80973e1"style="width:100%;" />
 </div>
-
 
 <!-- 이름 -->
 <div align="center">
@@ -85,5 +84,5 @@
  
 <!-- 하단 이미지-->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a98c9a0f-c2b7-49a8-b9bc-2af907ce599a" style="width:100%;" />
+  <img src="https://github.com/user-attachments/assets/30737f74-d9b8-4acb-bfeb-4fe0d2f4e85e" style="width:100%;" />
 </div>
