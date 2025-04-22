@@ -1,6 +1,6 @@
 <!-- 상단 이미지 -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3b158209-e499-4cb5-801b-7117d80973e1"style="width:100%;" />
+  <img src="https://github.com/user-attachments/assets/3b158209-e499-4cb5-801b-7117d80973e1" style="width:100%;" />
 </div>
 
 <!-- 이름 -->
