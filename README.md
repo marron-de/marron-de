@@ -32,9 +32,9 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/illustrator-f79500?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-2fa3f7?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere-000058?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white">
+<img src="https://img.shields.io/badge/illustrator-f79500?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-2fa3f7?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere-000058?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white"> -->
 <br>
  
