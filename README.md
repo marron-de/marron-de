@@ -1,8 +1,4 @@
 <!-- 상단 이미지 -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3b158209-e499-4cb5-801b-7117d80973e1" style="width:100%;" />
-</div>
-
 ![Image](https://github.com/user-attachments/assets/0822e3b8-68db-43b3-ab6a-43d88b5da4b2)
 
 <!-- 이름 -->
@@ -85,6 +81,4 @@
  
  
 <!-- 하단 이미지-->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/30737f74-d9b8-4acb-bfeb-4fe0d2f4e85e" style="width:100%;" />
-</div>
+![Image](https://github.com/user-attachments/assets/32d91cbb-cbb4-4d6c-becc-f841fa400f9e)
