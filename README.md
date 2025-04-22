@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/3b158209-e499-4cb5-801b-7117d80973e1" style="width:100%;" />
 </div>
 
+![Image](https://github.com/user-attachments/assets/0822e3b8-68db-43b3-ab6a-43d88b5da4b2)
+
 <!-- 이름 -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aee78cca-2572-4fba-8307-e46a7bd40b38" style="width:180px" />
