@@ -54,8 +54,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marron-de&title_color=0f2a46&icon_color=546635&text_color=0f2a46&bg_color=fffdf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<br>
-
 
 <!-- 연락
 <div align=center>
